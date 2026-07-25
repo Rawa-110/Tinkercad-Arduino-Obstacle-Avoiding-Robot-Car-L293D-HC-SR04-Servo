@@ -22,10 +22,10 @@ Turn right and left alternately for 60 seconds.
 
 
 
-
 Expected Result
 
 The four motors complete the required movement sequence automatically according to the programmed timing.
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b8a5c51-edeb-438d-a59a-edd2ee3f4378" />
 
