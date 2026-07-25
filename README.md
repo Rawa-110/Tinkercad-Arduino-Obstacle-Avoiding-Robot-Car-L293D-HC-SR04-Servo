@@ -18,6 +18,11 @@ The motors perform the following sequence:
 Move forward for 30 seconds.
 Move backward for 60 seconds.
 Turn right and left alternately for 60 seconds.
+
+
+
+
+
 Expected Result
 
 The four motors complete the required movement sequence automatically according to the programmed timing.
